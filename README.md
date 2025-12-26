@@ -1,0 +1,1 @@
+# game-dcc-asset-template
